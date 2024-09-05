@@ -1,2 +1,1 @@
-# sonicwall-gadgets
- 
+Sonicwall firmware decrypt tools
